@@ -1,5 +1,5 @@
 # construct a map based on anchors in export.json
-# ruby map.rb > map.dot
+# ruby map.rb
 
 require 'json'
 
@@ -21,8 +21,8 @@ def link
       next unless ['paragraph','markdown'].include? item['type']
       item['text'].scan(/\[\[(.+?)\]\]/).each do |title, *rest|
         slug = slug(title)
-        next unless @export[slug]
-        here[slug] = title
+        next unless page = @export[slug]
+        here[slug] = page['title']
       end
     end
   end

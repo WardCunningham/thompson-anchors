@@ -1,0 +1,232 @@
+digraph { node [shape=box style=filled fillcolor=palegreen] rankdir=LR "Learning\nCycles" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Agile" [URL="https://thompson.wiki.innovateoregon.org/view/agile"]
+"Learning\nCycles" -> "Agile"
+"Higher\nPurpose" [URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
+"Learning\nCycles" -> "Higher\nPurpose"
+"Design\nThinking" [URL="https://thompson.wiki.innovateoregon.org/view/design-thinking"]
+"Learning\nCycles" -> "Design\nThinking"
+"Scrum" [URL="https://thompson.wiki.innovateoregon.org/view/scrum"]
+"Learning\nCycles" -> "Scrum"
+"Prime\nPattern" [URL="https://thompson.wiki.innovateoregon.org/view/prime-pattern"]
+"Learning\nCycles" -> "Prime\nPattern"
+"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Learning\nCycles" -> "Agile\nLearning"
+"Eureka\nMoments" [URL="https://thompson.wiki.innovateoregon.org/view/eureka-moments"]
+"Learning\nCycles" -> "Eureka\nMoments"
+"Creative\nConfidence" [URL="https://thompson.wiki.innovateoregon.org/view/creative-confidence"]
+"Learning\nCycles" -> "Creative\nConfidence"
+"Flow\nState" [URL="https://thompson.wiki.innovateoregon.org/view/flow-state"]
+"Learning\nCycles" -> "Flow\nState"
+"Hero's\nJourney" [URL="https://thompson.wiki.innovateoregon.org/view/heros-journey"]
+"Learning\nCycles" -> "Hero's\nJourney"
+"Agile" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/agile"]
+"Higher\nPurpose" [URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
+"Agile" -> "Higher\nPurpose"
+"Working\nwith\nOthers" [URL="https://thompson.wiki.innovateoregon.org/view/working-with-others"]
+"Agile" -> "Working\nwith\nOthers"
+"Structured\nPlanning" [URL="https://thompson.wiki.innovateoregon.org/view/structured-planning"]
+"Agile" -> "Structured\nPlanning"
+"Flow\nState" [URL="https://thompson.wiki.innovateoregon.org/view/flow-state"]
+"Agile" -> "Flow\nState"
+"Accelerated\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/accelerated-learning"]
+"Agile" -> "Accelerated\nLearning"
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Agile" -> "Learning\nCycles"
+"Curiousity" [URL="https://thompson.wiki.innovateoregon.org/view/curiousity"]
+"Agile" -> "Curiousity"
+"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Agile" -> "Agile\nLearning"
+"Agile\nMindset" [URL="https://thompson.wiki.innovateoregon.org/view/agile-mindset"]
+"Agile" -> "Agile\nMindset"
+"Hacking" [URL="https://thompson.wiki.innovateoregon.org/view/hacking"]
+"Agile" -> "Hacking"
+"Iteration" [URL="https://thompson.wiki.innovateoregon.org/view/iteration"]
+"Agile" -> "Iteration"
+"Collaboration" [URL="https://thompson.wiki.innovateoregon.org/view/collaboration"]
+"Agile" -> "Collaboration"
+"Creative\nConfidence" [URL="https://thompson.wiki.innovateoregon.org/view/creative-confidence"]
+"Agile" -> "Creative\nConfidence"
+"Agile\nDevelopment" [URL="https://thompson.wiki.innovateoregon.org/view/agile-development"]
+"Agile" -> "Agile\nDevelopment"
+"Agile\nManagement" [URL="https://thompson.wiki.innovateoregon.org/view/agile-management"]
+"Agile" -> "Agile\nManagement"
+"Agile\nEducation" [URL="https://thompson.wiki.innovateoregon.org/view/agile-education"]
+"Agile" -> "Agile\nEducation"
+"The\nAgile\nStory" [URL="https://thompson.wiki.innovateoregon.org/view/the-agile-story"]
+"Agile" -> "The\nAgile\nStory"
+"Welcome\nVisitors" [URL="https://thompson.wiki.innovateoregon.org/view/welcome-visitors"]
+"Agile" -> "Welcome\nVisitors"
+"Pattern\nLanguages" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/pattern-languages"]
+"Object\nOriented\nProgramming" [URL="https://thompson.wiki.innovateoregon.org/view/object-oriented-programming"]
+"Pattern\nLanguages" -> "Object\nOriented\nProgramming"
+"Original\nWiki\nPlatform" [URL="https://thompson.wiki.innovateoregon.org/view/original-wiki-platform"]
+"Pattern\nLanguages" -> "Original\nWiki\nPlatform"
+"Agile" [URL="https://thompson.wiki.innovateoregon.org/view/agile"]
+"Pattern\nLanguages" -> "Agile"
+"Exploring\nPatterns" [URL="https://thompson.wiki.innovateoregon.org/view/exploring-patterns"]
+"Pattern\nLanguages" -> "Exploring\nPatterns"
+"Agile\nMindset" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/agile-mindset"]
+"Higher\nPurpose" [URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
+"Agile\nMindset" -> "Higher\nPurpose"
+"Courage" [URL="https://thompson.wiki.innovateoregon.org/view/courage"]
+"Agile\nMindset" -> "Courage"
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Agile\nMindset" -> "Learning\nCycles"
+"Value\nNetworks" [URL="https://thompson.wiki.innovateoregon.org/view/value-networks"]
+"Agile\nMindset" -> "Value\nNetworks"
+"Paradigm\nof\nAbundance" [URL="https://thompson.wiki.innovateoregon.org/view/paradigm-of-abundance"]
+"Agile\nMindset" -> "Paradigm\nof\nAbundance"
+"Dialectical\nSynthesis" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/dialectical-synthesis"]
+"Cartesian\nMindset" [URL="https://thompson.wiki.innovateoregon.org/view/cartesian-mindset"]
+"Dialectical\nSynthesis" -> "Cartesian\nMindset"
+"Agile\nMindset" [URL="https://thompson.wiki.innovateoregon.org/view/agile-mindset"]
+"Dialectical\nSynthesis" -> "Agile\nMindset"
+"Smalltalk" [URL="https://thompson.wiki.innovateoregon.org/view/smalltalk"]
+"Dialectical\nSynthesis" -> "Smalltalk"
+"Speed\nof\nNow" [URL="https://thompson.wiki.innovateoregon.org/view/speed-of-now"]
+"Dialectical\nSynthesis" -> "Speed\nof\nNow"
+"Eureka\nMoments" [URL="https://thompson.wiki.innovateoregon.org/view/eureka-moments"]
+"Dialectical\nSynthesis" -> "Eureka\nMoments"
+"Creative\nGenius" [URL="https://thompson.wiki.innovateoregon.org/view/creative-genius"]
+"Dialectical\nSynthesis" -> "Creative\nGenius"
+"Whole\nMind" [URL="https://thompson.wiki.innovateoregon.org/view/whole-mind"]
+"Dialectical\nSynthesis" -> "Whole\nMind"
+"Thoughts\non\nSmalltalk\n&\nAgile" [URL="https://thompson.wiki.innovateoregon.org/view/thoughts-on-smalltalk--agile"]
+"Dialectical\nSynthesis" -> "Thoughts\non\nSmalltalk\n&\nAgile"
+"Birthing\nEureka\nMoments" [URL="https://thompson.wiki.innovateoregon.org/view/birthing-eureka-moments"]
+"Dialectical\nSynthesis" -> "Birthing\nEureka\nMoments"
+"Agile\nLearning" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Agile\nDevelopment" [URL="https://thompson.wiki.innovateoregon.org/view/agile-development"]
+"Agile\nLearning" -> "Agile\nDevelopment"
+"Agile\nManagement" [URL="https://thompson.wiki.innovateoregon.org/view/agile-management"]
+"Agile\nLearning" -> "Agile\nManagement"
+"Agile\nEducation" [URL="https://thompson.wiki.innovateoregon.org/view/agile-education"]
+"Agile\nLearning" -> "Agile\nEducation"
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Agile\nLearning" -> "Learning\nCycles"
+"Accelerated\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/accelerated-learning"]
+"Agile\nLearning" -> "Accelerated\nLearning"
+"Higher\nPurpose" [URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
+"Agile\nLearning" -> "Higher\nPurpose"
+"Collective\nFlow" [URL="https://thompson.wiki.innovateoregon.org/view/collective-flow"]
+"Agile\nLearning" -> "Collective\nFlow"
+"Evangelist" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/evangelist"]
+"Innovators" [URL="https://thompson.wiki.innovateoregon.org/view/innovators"]
+"Evangelist" -> "Innovators"
+"Bias\nto\nAction" [URL="https://thompson.wiki.innovateoregon.org/view/bias-to-action"]
+"Evangelist" -> "Bias\nto\nAction"
+"Mentors" [URL="https://thompson.wiki.innovateoregon.org/view/mentors"]
+"Evangelist" -> "Mentors"
+"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Evangelist" -> "Agile\nLearning"
+"Curiosity" [URL="https://thompson.wiki.innovateoregon.org/view/curiosity"]
+"Evangelist" -> "Curiosity"
+"Hero's\nJourney" [URL="https://thompson.wiki.innovateoregon.org/view/heros-journey"]
+"Evangelist" -> "Hero's\nJourney"
+"Learning\nfrom\nOthers" [URL="https://thompson.wiki.innovateoregon.org/view/learning-from-others"]
+"Evangelist" -> "Learning\nfrom\nOthers"
+"First\nFollower" [URL="https://thompson.wiki.innovateoregon.org/view/first-follower"]
+"Evangelist" -> "First\nFollower"
+"Higher\nPurpose" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
+"Audacious\nAspiration" [URL="https://thompson.wiki.innovateoregon.org/view/audacious-aspiration"]
+"Higher\nPurpose" -> "Audacious\nAspiration"
+"Collective\nFlow" [URL="https://thompson.wiki.innovateoregon.org/view/collective-flow"]
+"Higher\nPurpose" -> "Collective\nFlow"
+"Paradigm\nof\nAbundance" [URL="https://thompson.wiki.innovateoregon.org/view/paradigm-of-abundance"]
+"Higher\nPurpose" -> "Paradigm\nof\nAbundance"
+"Eureka\nMoments" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/eureka-moments"]
+"Schema" [URL="https://thompson.wiki.innovateoregon.org/view/schema"]
+"Eureka\nMoments" -> "Schema"
+"Dialectical\nSynthesis" [URL="https://thompson.wiki.innovateoregon.org/view/dialectical-synthesis"]
+"Eureka\nMoments" -> "Dialectical\nSynthesis"
+"Birthing\nEureka\nMoments" [URL="https://thompson.wiki.innovateoregon.org/view/birthing-eureka-moments"]
+"Eureka\nMoments" -> "Birthing\nEureka\nMoments"
+"Scrum" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/scrum"]
+"Agile" [URL="https://thompson.wiki.innovateoregon.org/view/agile"]
+"Scrum" -> "Agile"
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Scrum" -> "Learning\nCycles"
+"Learning\nJournal" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/learning-journal"]
+"Agile" [URL="https://thompson.wiki.innovateoregon.org/view/agile"]
+"Learning\nJournal" -> "Agile"
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Learning\nJournal" -> "Learning\nCycles"
+"Thompson's\nJournal" [URL="https://thompson.wiki.innovateoregon.org/view/thompsons-journal"]
+"Learning\nJournal" -> "Thompson's\nJournal"
+"Your\nOwn\nLearning\nJournal" [URL="https://thompson.wiki.innovateoregon.org/view/your-own-learning-journal"]
+"Learning\nJournal" -> "Your\nOwn\nLearning\nJournal"
+"Flow\nState" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/flow-state"]
+"Creative\nCourage" [URL="https://thompson.wiki.innovateoregon.org/view/creative-courage"]
+"Flow\nState" -> "Creative\nCourage"
+"Trivium" [URL="https://thompson.wiki.innovateoregon.org/view/trivium"]
+"Flow\nState" -> "Trivium"
+"Collective\nFlow" [URL="https://thompson.wiki.innovateoregon.org/view/collective-flow"]
+"Flow\nState" -> "Collective\nFlow"
+"Prime\nPattern" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/prime-pattern"]
+"Trivium" [URL="https://thompson.wiki.innovateoregon.org/view/trivium"]
+"Prime\nPattern" -> "Trivium"
+"Core\nValues" [URL="https://thompson.wiki.innovateoregon.org/view/core-values"]
+"Prime\nPattern" -> "Core\nValues"
+"Make-a-thon" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/make-a-thon"]
+"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Make-a-thon" -> "Agile\nLearning"
+"Positive\nDeviancy" [URL="https://thompson.wiki.innovateoregon.org/view/positive-deviancy"]
+"Make-a-thon" -> "Positive\nDeviancy"
+"School\nRetool" [URL="https://thompson.wiki.innovateoregon.org/view/school-retool"]
+"Make-a-thon" -> "School\nRetool"
+"Innovators" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/innovators"]
+"Evangelist" [URL="https://thompson.wiki.innovateoregon.org/view/evangelist"]
+"Innovators" -> "Evangelist"
+"Innovation\nCohort" [URL="https://thompson.wiki.innovateoregon.org/view/innovation-cohort"]
+"Innovators" -> "Innovation\nCohort"
+"Mentors" [URL="https://thompson.wiki.innovateoregon.org/view/mentors"]
+"Innovators" -> "Mentors"
+"Rogers\nCurve" [URL="https://thompson.wiki.innovateoregon.org/view/rogers-curve"]
+"Innovators" -> "Rogers\nCurve"
+"Innovate\nOregon" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/innovate-oregon"]
+"Essence\nof\nAgile" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/essence-of-agile"]
+"Smalltalk" [URL="https://thompson.wiki.innovateoregon.org/view/smalltalk"]
+"Essence\nof\nAgile" -> "Smalltalk"
+"Retrospective" [URL="https://thompson.wiki.innovateoregon.org/view/retrospective"]
+"Essence\nof\nAgile" -> "Retrospective"
+"Sprint" [URL="https://thompson.wiki.innovateoregon.org/view/sprint"]
+"Essence\nof\nAgile" -> "Sprint"
+"Eureka\nMoments" [URL="https://thompson.wiki.innovateoregon.org/view/eureka-moments"]
+"Essence\nof\nAgile" -> "Eureka\nMoments"
+"Joyful\nSandboxes" [URL="https://thompson.wiki.innovateoregon.org/view/joyful-sandboxes"]
+"Essence\nof\nAgile" -> "Joyful\nSandboxes"
+"Wholehearted\nCommitment" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/wholehearted-commitment"]
+"Courage" [URL="https://thompson.wiki.innovateoregon.org/view/courage"]
+"Wholehearted\nCommitment" -> "Courage"
+"Curiosity" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/curiosity"]
+"Curiosity\nand\nthe\nGenius\nHour" [URL="https://thompson.wiki.innovateoregon.org/view/curiosity-and-the-genius-hour"]
+"Curiosity" -> "Curiosity\nand\nthe\nGenius\nHour"
+"Core\nValues" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/core-values"]
+"Audacious\nAspiration" [URL="https://thompson.wiki.innovateoregon.org/view/audacious-aspiration"]
+"Core\nValues" -> "Audacious\nAspiration"
+"Prime\nPattern" [URL="https://thompson.wiki.innovateoregon.org/view/prime-pattern"]
+"Core\nValues" -> "Prime\nPattern"
+"Value\nNetwork" [URL="https://thompson.wiki.innovateoregon.org/view/value-network"]
+"Core\nValues" -> "Value\nNetwork"
+"My\nCore\nValues" [URL="https://thompson.wiki.innovateoregon.org/view/my-core-values"]
+"Core\nValues" -> "My\nCore\nValues"
+"Collective\nFlow" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/collective-flow"]
+"Flow\nState" [URL="https://thompson.wiki.innovateoregon.org/view/flow-state"]
+"Collective\nFlow" -> "Flow\nState"
+"Agile" [URL="https://thompson.wiki.innovateoregon.org/view/agile"]
+"Collective\nFlow" -> "Agile"
+"Innovate\nOregon" [URL="https://thompson.wiki.innovateoregon.org/view/innovate-oregon"]
+"Collective\nFlow" -> "Innovate\nOregon"
+"Make-a-thon" [URL="https://thompson.wiki.innovateoregon.org/view/make-a-thon"]
+"Collective\nFlow" -> "Make-a-thon"
+"Cartesian\nMindset" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/cartesian-mindset"]
+"Audacious\nAspiration" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/audacious-aspiration"]
+"Comfortable\nbeing\nUncomfortable" [URL="https://thompson.wiki.innovateoregon.org/view/comfortable-being-uncomfortable"]
+"Audacious\nAspiration" -> "Comfortable\nbeing\nUncomfortable"
+"Higher\nPurpose" [URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
+"Audacious\nAspiration" -> "Higher\nPurpose"
+"Leapfrog" [URL="https://thompson.wiki.innovateoregon.org/view/leapfrog"]
+"Audacious\nAspiration" -> "Leapfrog"
+"Agile\nPartnership\nProgram" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/agile-partnership-program"]
+"Innovators" [URL="https://thompson.wiki.innovateoregon.org/view/innovators"]
+"Agile\nPartnership\nProgram" -> "Innovators"}

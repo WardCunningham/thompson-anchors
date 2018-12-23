@@ -54,7 +54,7 @@ link
 note "#{@export.size} pages"
 note "#{@export.select{|k,v|not v['links'].empty?}.size} with links"
 
-seeds =['Learning Cycles','Agile','Pattern Languages','Agile Mindset',
+seeds =['Learning Cycles','Pattern Languages','Agile Mindset',
   'Dialectical Synthesis','Agile Learning','Evangelist','Higher Purpose',
   'Eureka Moments','Scrum','Learning Journal','Flow State',
   'Prime Pattern','Make-a-thon','Innovators','Innovate Oregon','Essence of Agile',

@@ -19,43 +19,6 @@ digraph { node [shape=box style=filled fillcolor=palegreen] rankdir=LR "Learning
 "Learning\nCycles" -> "Flow\nState"
 "Hero's\nJourney" [URL="https://thompson.wiki.innovateoregon.org/view/heros-journey"]
 "Learning\nCycles" -> "Hero's\nJourney"
-"Agile" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/agile"]
-"Higher\nPurpose" [URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
-"Agile" -> "Higher\nPurpose"
-"Working\nwith\nOthers" [URL="https://thompson.wiki.innovateoregon.org/view/working-with-others"]
-"Agile" -> "Working\nwith\nOthers"
-"Structured\nPlanning" [URL="https://thompson.wiki.innovateoregon.org/view/structured-planning"]
-"Agile" -> "Structured\nPlanning"
-"Flow\nState" [URL="https://thompson.wiki.innovateoregon.org/view/flow-state"]
-"Agile" -> "Flow\nState"
-"Accelerated\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/accelerated-learning"]
-"Agile" -> "Accelerated\nLearning"
-"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
-"Agile" -> "Learning\nCycles"
-"Curiousity" [URL="https://thompson.wiki.innovateoregon.org/view/curiousity"]
-"Agile" -> "Curiousity"
-"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
-"Agile" -> "Agile\nLearning"
-"Agile\nMindset" [URL="https://thompson.wiki.innovateoregon.org/view/agile-mindset"]
-"Agile" -> "Agile\nMindset"
-"Hacking" [URL="https://thompson.wiki.innovateoregon.org/view/hacking"]
-"Agile" -> "Hacking"
-"Iteration" [URL="https://thompson.wiki.innovateoregon.org/view/iteration"]
-"Agile" -> "Iteration"
-"Collaboration" [URL="https://thompson.wiki.innovateoregon.org/view/collaboration"]
-"Agile" -> "Collaboration"
-"Creative\nConfidence" [URL="https://thompson.wiki.innovateoregon.org/view/creative-confidence"]
-"Agile" -> "Creative\nConfidence"
-"Agile\nDevelopment" [URL="https://thompson.wiki.innovateoregon.org/view/agile-development"]
-"Agile" -> "Agile\nDevelopment"
-"Agile\nManagement" [URL="https://thompson.wiki.innovateoregon.org/view/agile-management"]
-"Agile" -> "Agile\nManagement"
-"Agile\nEducation" [URL="https://thompson.wiki.innovateoregon.org/view/agile-education"]
-"Agile" -> "Agile\nEducation"
-"The\nAgile\nStory" [URL="https://thompson.wiki.innovateoregon.org/view/the-agile-story"]
-"Agile" -> "The\nAgile\nStory"
-"Welcome\nVisitors" [URL="https://thompson.wiki.innovateoregon.org/view/welcome-visitors"]
-"Agile" -> "Welcome\nVisitors"
 "Pattern\nLanguages" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/pattern-languages"]
 "Object\nOriented\nProgramming" [URL="https://thompson.wiki.innovateoregon.org/view/object-oriented-programming"]
 "Pattern\nLanguages" -> "Object\nOriented\nProgramming"

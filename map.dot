@@ -1,4 +1,4 @@
-digraph { node [shape=box style=filled fillcolor=palegreen] rankdir=LR "Learning\nCycles" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+digraph { node [shape=box style=filled fillcolor=lightblue] rankdir=LR "Learning\nCycles" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
 "Agile" [URL="https://thompson.wiki.innovateoregon.org/view/agile"]
 "Learning\nCycles" -> "Agile"
 "Higher\nPurpose" [URL="https://thompson.wiki.innovateoregon.org/view/higher-purpose"]
@@ -192,4 +192,76 @@ digraph { node [shape=box style=filled fillcolor=palegreen] rankdir=LR "Learning
 "Audacious\nAspiration" -> "Leapfrog"
 "Agile\nPartnership\nProgram" [fillcolor=gold URL="https://thompson.wiki.innovateoregon.org/view/agile-partnership-program"]
 "Innovators" [URL="https://thompson.wiki.innovateoregon.org/view/innovators"]
-"Agile\nPartnership\nProgram" -> "Innovators"}
+"Agile\nPartnership\nProgram" -> "Innovators"
+"3x3\nReflection" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/3x3-reflection"]
+"Agile\nPartnership\nProgram" [URL="https://thompson.wiki.innovateoregon.org/view/agile-partnership-program"]
+"3x3\nReflection" -> "Agile\nPartnership\nProgram"
+"The\nMeaning\nof\nWords" [URL="https://thompson.wiki.innovateoregon.org/view/the-meaning-of-words"]
+"3x3\nReflection" -> "The\nMeaning\nof\nWords"
+"Finding\nMeaning" [URL="https://thompson.wiki.innovateoregon.org/view/finding-meaning"]
+"3x3\nReflection" -> "Finding\nMeaning"
+"An\nExistential\nCrisis" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/an-existential-crisis"]
+"Agile\nValues" [URL="https://thompson.wiki.innovateoregon.org/view/agile-values"]
+"An\nExistential\nCrisis" -> "Agile\nValues"
+"Wholehearted\nCommitment" [URL="https://thompson.wiki.innovateoregon.org/view/wholehearted-commitment"]
+"An\nExistential\nCrisis" -> "Wholehearted\nCommitment"
+"Believing\nin\nAwesome" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/believing-in-awesome"]
+"Modern\nAgile" [URL="https://thompson.wiki.innovateoregon.org/view/modern-agile"]
+"Believing\nin\nAwesome" -> "Modern\nAgile"
+"Creative\nGenius" [URL="https://thompson.wiki.innovateoregon.org/view/creative-genius"]
+"Believing\nin\nAwesome" -> "Creative\nGenius"
+"Creating\na\nJoyful\nSandbox" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/creating-a-joyful-sandbox"]
+"Joyful\nSandboxes" [URL="https://thompson.wiki.innovateoregon.org/view/joyful-sandboxes"]
+"Creating\na\nJoyful\nSandbox" -> "Joyful\nSandboxes"
+"Finding\nMeaning" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/finding-meaning"]
+"3x3\nReflection" [URL="https://thompson.wiki.innovateoregon.org/view/3x3-reflection"]
+"Finding\nMeaning" -> "3x3\nReflection"
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Finding\nMeaning" -> "Learning\nCycles"
+"Joyful\nSandboxes" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/joyful-sandboxes"]
+"Smalltalk" [URL="https://thompson.wiki.innovateoregon.org/view/smalltalk"]
+"Joyful\nSandboxes" -> "Smalltalk"
+"Spirit\nof\nAgile" [URL="https://thompson.wiki.innovateoregon.org/view/spirit-of-agile"]
+"Joyful\nSandboxes" -> "Spirit\nof\nAgile"
+"Deeper\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/deeper-learning"]
+"Joyful\nSandboxes" -> "Deeper\nLearning"
+"Joy\nMatters" [URL="https://thompson.wiki.innovateoregon.org/view/joy-matters"]
+"Joyful\nSandboxes" -> "Joy\nMatters"
+"Layers\nof\nGenius" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/layers-of-genius"]
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Layers\nof\nGenius" -> "Learning\nCycles"
+"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Layers\nof\nGenius" -> "Agile\nLearning"
+"Making\nof\nPatterns" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/making-of-patterns"]
+"Pattern\nLanguages" [URL="https://thompson.wiki.innovateoregon.org/view/pattern-languages"]
+"Making\nof\nPatterns" -> "Pattern\nLanguages"
+"QWAN" [URL="https://thompson.wiki.innovateoregon.org/view/qwan"]
+"Making\nof\nPatterns" -> "QWAN"
+"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Making\nof\nPatterns" -> "Agile\nLearning"
+"Joyful\nSandboxes" [URL="https://thompson.wiki.innovateoregon.org/view/joyful-sandboxes"]
+"Making\nof\nPatterns" -> "Joyful\nSandboxes"
+"Learning\nCycles" [URL="https://thompson.wiki.innovateoregon.org/view/learning-cycles"]
+"Making\nof\nPatterns" -> "Learning\nCycles"
+"Positive\nDeviant" [URL="https://thompson.wiki.innovateoregon.org/view/positive-deviant"]
+"Making\nof\nPatterns" -> "Positive\nDeviant"
+"3x3\nReflection" [URL="https://thompson.wiki.innovateoregon.org/view/3x3-reflection"]
+"Making\nof\nPatterns" -> "3x3\nReflection"
+"Modern\nAgile" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/modern-agile"]
+"Positive\nDeviant" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/positive-deviant"]
+"Positive\nDeviancy" [URL="https://thompson.wiki.innovateoregon.org/view/positive-deviancy"]
+"Positive\nDeviant" -> "Positive\nDeviancy"
+"The\nBell\nCurve" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/the-bell-curve"]
+"The\nDark\nStory" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/the-dark-story"]
+"The\nPower\nCurve" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/the-power-curve"]
+"Unspoken\nAssumption" [fillcolor=palegreen URL="https://thompson.wiki.innovateoregon.org/view/unspoken-assumption"]
+"Agile\nLearning" [URL="https://thompson.wiki.innovateoregon.org/view/agile-learning"]
+"Unspoken\nAssumption" -> "Agile\nLearning"
+"The\nBell\nCurve" [URL="https://thompson.wiki.innovateoregon.org/view/the-bell-curve"]
+"Unspoken\nAssumption" -> "The\nBell\nCurve"
+"The\nPower\nCurve" [URL="https://thompson.wiki.innovateoregon.org/view/the-power-curve"]
+"Unspoken\nAssumption" -> "The\nPower\nCurve"
+"Creative\nGenius" [URL="https://thompson.wiki.innovateoregon.org/view/creative-genius"]
+"Unspoken\nAssumption" -> "Creative\nGenius"
+"The\nDark\nStory" [URL="https://thompson.wiki.innovateoregon.org/view/the-dark-story"]
+"Unspoken\nAssumption" -> "The\nDark\nStory"}
